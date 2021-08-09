@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vega", "Vega\Vega.csproj", "{50A44446-2F58-418E-A141-3C4EA9F52BA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50A44446-2F58-418E-A141-3C4EA9F52BA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A44446-2F58-418E-A141-3C4EA9F52BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A44446-2F58-418E-A141-3C4EA9F52BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A44446-2F58-418E-A141-3C4EA9F52BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2C4D9BB-A4AB-40F1-B3B1-0F38D8F4B75F}
+	EndGlobalSection
+EndGlobal
